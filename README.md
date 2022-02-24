@@ -3,14 +3,13 @@
 
 
 ### Site coming soon.
-
-[https://instagram.com/brian_whitfield](For now visit me on IG)
+[Visit me on IG](https://instagram.com/brian_whitfield)
 
 ### Technologies used:
 
-- [Netlify CMS](https://www.netlifycms.org/)
-- [Eleventy](https://www.11ty.dev/)
-- [Alpine.js](https://github.com/alpinejs/alpine)
-- [Tailwind CSS](https://tailwindcss.com/)
+[Netlify CMS](https://www.netlifycms.org/) <br>
+[Eleventy](https://www.11ty.dev/) <br>
+[Alpine.js](https://github.com/alpinejs/alpine) <br>
+[Tailwind CSS](https://tailwindcss.com/) <br>
 
 | ------------------------------------------------------------------------------------------------------------- |
